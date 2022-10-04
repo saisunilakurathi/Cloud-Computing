@@ -1,0 +1,2 @@
+#excluding node modules to the repository
+node_modules

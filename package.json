@@ -1,0 +1,31 @@
+{
+  "name": "cloud-computing",
+  "version": "1.0.0",
+  "description": "creating a node project and deploying into heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saisunilakurathi/Cloud-Computing.git"
+  },
+  "keywords": [
+    "heroku",
+    "deployment",
+    "node",
+    "project",
+    "nodejs",
+    "starting"
+  ],
+  "author": "saisunilakurathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saisunilakurathi/Cloud-Computing/issues"
+  },
+  "homepage": "https://github.com/saisunilakurathi/Cloud-Computing#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
